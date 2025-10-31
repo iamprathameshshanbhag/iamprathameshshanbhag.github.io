@@ -2,4 +2,15 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Prathamesh Premanand Shanbhag
+logo:
 description: Building intelligent systems for multilingual and inclusive AI
+
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects/"
+  - name: "Experience"
+    link: "/experience/"
+  - name: "Contact"
+    link: "/contact/"
