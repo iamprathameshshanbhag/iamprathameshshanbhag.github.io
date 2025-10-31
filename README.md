@@ -2,8 +2,7 @@
 
 📍 **Second Year Postgraduate**  
 🎓 Department of Computer Science & Engineering, IIT Gandhinagar  
-📧 **Email:** prathamesh.shanbhag@iitgn.ac.in  
-📞 **Phone:** +91 7620662160  
+📧 **Email:** prathamesh.shanbhag@iitgn.ac.in   
 
 ---
 
