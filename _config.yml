@@ -5,6 +5,13 @@ title: Prathamesh Premanand Shanbhag
 logo:
 description: Building intelligent systems for multilingual and inclusive AI
 
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+
 nav:
   - name: "Home"
     link: "/"
